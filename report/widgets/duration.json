@@ -1,0 +1,21 @@
+[ {
+  "uid" : "31f9bb1bb8669724",
+  "name" : "测试WMS下发PLU主数据接口",
+  "time" : {
+    "start" : 1658296096208,
+    "stop" : 1658296096208,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "268ce617c3a365e9",
+  "name" : "测试WCS修改PLU主数据接口",
+  "time" : {
+    "start" : 1658296096211,
+    "stop" : 1658296096211,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

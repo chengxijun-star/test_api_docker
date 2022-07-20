@@ -1,0 +1,107 @@
+{
+  "uid" : "1fe5e9899b2e0c4a",
+  "name" : "测试WMS下发PLU主数据接口",
+  "fullName" : "case.test_api_docker.TestReceiveWMSData#test_reveive_wms_data",
+  "historyId" : "5a84f60b1e7404907278cacbee54cb5f",
+  "time" : {
+    "start" : 1658295840085,
+    "stop" : 1658295840085,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "调用接口下发主数据",
+      "time" : {
+        "start" : 1658295840085,
+        "stop" : 1658295840085,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "查询数据库",
+      "time" : {
+        "start" : 1658295840085,
+        "stop" : 1658295840085,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 2,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "WMS下发PLU主数据"
+  }, {
+    "name" : "feature",
+    "value" : "WESAPI测试"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_docker"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestReceiveWMSData"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-2CDS1II"
+  }, {
+    "name" : "thread",
+    "value" : "17740-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_api_docker"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "receiveWmsData",
+    "type" : "link"
+  } ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1fe5e9899b2e0c4a.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,109 @@
+{
+  "uid" : "268ce617c3a365e9",
+  "name" : "测试WCS修改PLU主数据接口",
+  "fullName" : "case.test_api_docker.TestReceiveWMSData#test_update_data",
+  "historyId" : "6277d40986c02449c51f2d7e42927e10",
+  "time" : {
+    "start" : 1658296096211,
+    "stop" : 1658296096211,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "调用接口修改主数据",
+      "time" : {
+        "start" : 1658296096211,
+        "stop" : 1658296096211,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "查询数据库",
+      "time" : {
+        "start" : 1658296096211,
+        "stop" : 1658296096211,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 2,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "WESAPI测试"
+  }, {
+    "name" : "story",
+    "value" : "Wcs修改PLU主数据"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_docker"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestReceiveWMSData"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-2CDS1II"
+  }, {
+    "name" : "thread",
+    "value" : "8676-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_api_docker"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "updateData",
+    "type" : "link"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "268ce617c3a365e9.json",
+  "parameterValues" : [ ]
+}

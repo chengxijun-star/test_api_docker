@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jul 20 13:48:16 CST 2022","Wed Jul 20 13:48:16 CST 2022","0","case","test_api_docker","TestReceiveWMSData","","","测试WMS下发PLU主数据接口",""
+"passed","Wed Jul 20 13:48:16 CST 2022","Wed Jul 20 13:48:16 CST 2022","0","case","test_api_docker","TestReceiveWMSData","","","测试WCS修改PLU主数据接口",""

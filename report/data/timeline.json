@@ -1,0 +1,89 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-2CDS1II",
+    "children" : [ {
+      "name" : "14060-MainThread",
+      "children" : [ {
+        "name" : "测试WMS下发PLU主数据接口",
+        "uid" : "8fa87c267304d6e2",
+        "parentUid" : "4f98a23e659dc619bf6fb1ad5740678e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658295705951,
+          "stop" : 1658295705951,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4f98a23e659dc619bf6fb1ad5740678e"
+    }, {
+      "name" : "17740-MainThread",
+      "children" : [ {
+        "name" : "测试WMS下发PLU主数据接口",
+        "uid" : "1fe5e9899b2e0c4a",
+        "parentUid" : "6dae5c68d3d1abd12a2f0d33da2bf745",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658295840085,
+          "stop" : 1658295840085,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6dae5c68d3d1abd12a2f0d33da2bf745"
+    }, {
+      "name" : "8676-MainThread",
+      "children" : [ {
+        "name" : "测试WCS修改PLU主数据接口",
+        "uid" : "268ce617c3a365e9",
+        "parentUid" : "f40fed5850fd74ed8bb8977a55d0e9d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658296096211,
+          "stop" : 1658296096211,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "测试WMS下发PLU主数据接口",
+        "uid" : "31f9bb1bb8669724",
+        "parentUid" : "f40fed5850fd74ed8bb8977a55d0e9d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658296096208,
+          "stop" : 1658296096208,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f40fed5850fd74ed8bb8977a55d0e9d7"
+    } ],
+    "uid" : "2f7406d0e124383e19e90371c2e0c1f0"
+  } ]
+}

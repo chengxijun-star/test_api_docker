@@ -1,0 +1,51 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "case",
+    "children" : [ {
+      "name" : "test_api_docker",
+      "children" : [ {
+        "name" : "TestReceiveWMSData",
+        "children" : [ {
+          "name" : "测试WMS下发PLU主数据接口",
+          "uid" : "31f9bb1bb8669724",
+          "parentUid" : "2b68e1c7c046525ae1a5293959c2b1e7",
+          "status" : "passed",
+          "time" : {
+            "start" : 1658296096208,
+            "stop" : 1658296096208,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 2,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "测试WCS修改PLU主数据接口",
+          "uid" : "268ce617c3a365e9",
+          "parentUid" : "2b68e1c7c046525ae1a5293959c2b1e7",
+          "status" : "passed",
+          "time" : {
+            "start" : 1658296096211,
+            "stop" : 1658296096211,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "2b68e1c7c046525ae1a5293959c2b1e7"
+      } ],
+      "uid" : "f6b555305b29c7e64db2b17585cae874"
+    } ],
+    "uid" : "7559db31629684e5f31176d189a833ac"
+  } ]
+}
