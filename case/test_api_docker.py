@@ -21,3 +21,12 @@ class TestReceiveWMSData(object):
             pass
         with allure.step("查询数据库"):
             pass
+
+    @allure.title("测试WCS删除PLU主数据接口")
+    @allure.story("Wcs删除PLU主数据")
+    @allure.link("", name="deleteData")
+    def test_delete_data(self):
+        with allure.step("调用接口修改主数据"):
+            pass
+        with allure.step("查询数据库"):
+            print("查询结果正确")
