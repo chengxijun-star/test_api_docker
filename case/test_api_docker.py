@@ -18,7 +18,7 @@ class TestReceiveWMSData(object):
     @allure.link("", name="updateData")
     def test_update_data(self):
         with allure.step("调用接口修改主数据"):
-            pass
+            print("测试冲突")
         with allure.step("查询数据库"):
             pass
 
